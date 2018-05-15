@@ -1,0 +1,50 @@
+img {
+	margin: 0 auto;
+	display: block;
+}
+
+div {
+	background-image: url("img/unicorn.jpg");
+	width: auto;
+	height: 400px;
+	background-repeat: no-repeat;
+}
+/*div,
+h1 {
+	background-color: blue;
+}
+
+div img {
+	background-color: orange;
+}
+
+div > p {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+ div ul {
+
+ }
+
+.nav {
+
+}
+
+ul.nav {
+
+}
+
+div#intro button {
+
+}
+
+
+
+
+
+
+
+
+
+*/
